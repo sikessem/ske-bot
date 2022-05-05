@@ -1,0 +1,21 @@
+{
+  "name": "ske-app",
+  "version": "0.0.1",
+  "description": "Create a new Ske Application",
+  "homepage": "https://npmjs.org/package/ske-app",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skedotdev/ske-app.git"
+  },
+  "keywords": [
+    "website",
+    "application",
+	"framework",
+	"repository-template"
+  ],
+  "author": "SIGUI Kessé Emmanuel <contact@sikessem.com>",
+  "bugs": {
+    "url": "https://github.com/skedotdev/ske-app/issues"
+  }
+}
